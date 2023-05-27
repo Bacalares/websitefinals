@@ -1,0 +1,141 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Finals</title>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+
+
+
+/* Style the body */
+body {
+  font-family: Courier;
+  margin: 0;
+}
+/* Header/Logo Title */
+.header {
+  padding: 1px;
+  background: #01579B;
+  color: white;
+  font-size: 20px;
+}
+
+/* Page Content */
+.content {padding:20px;
+font-size: 20px;
+padding-left: 300px;
+padding-right: 300px;
+
+font-family: Arial;
+}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Tourist Spots Ph</h1>
+</div>
+
+
+</head>
+
+<head>
+<style>
+.button {
+top: 100%;
+left: 100%;
+  background-color: #4DB6AC; /* Green */
+  border: none;
+  color: white;
+  padding: 25px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1px -4px;
+  cursor: pointer;
+border-radius: 0px;
+font-family: Arial;
+font-size: 25px;
+width: 255px;
+
+}
+
+</style>
+</head>
+<body>
+
+    <a href="FINALS1.html" class="button">Home</a>
+
+<a href="FINALSCONTENT2.html" class="button">Beaches</a>
+
+<a href="FINALSCONTENT3.html" class="button">Historical Places</a>
+
+<a href="FINALSCONTENT4.html" class="button">Theme Parks</a>
+
+
+</body>
+
+
+<div class="content">
+<head>
+<style>
+h1{
+font-size: 40px;
+}
+</style>
+</head>
+<body>
+  <h1>Mountain views in the Philippines</h1>
+<br>
+<hr>
+
+
+
+
+
+<h2><FONT COLOR=“#21618C”>1. Taal Volcano and Lake, Tagaytay, and Batangas</FONT></h2>
+<IMG SRC="TAAL.jpg" width="700"height="400">
+<p>Locals and international tourists from Manila frequently go south to Tagaytay, a tranquil town well-known for its temperate climate, breathtaking scenery, and several tourist attractions that are well-known for being one of the greatest family-friendly locations close to Manila.</p>
+<hr><br>
+
+
+<h2><FONT COLOR=“#000080”>2. Mount Gulugud Baboy, Batangas</FONT></h2>
+<IMG SRC="mountain2.jpg" width="700"height="400">
+<p>For hikers looking to witness the beautiful views of Batangas' bays and islands, Mount Gulugud Baboy in Anilao, Batangas, is the ideal destination at 525 meters in height. The mountain is known for its verdant, undulating landscapes and profusion of animals, including dogs, cows, and goats, .</p>
+<hr><BR>
+
+<h2><FONT COLOR=“#000080”>3. Mount Batulao, Batangas</FONT></h2>
+<IMG SRC="mountain3.jpg" width="700"height="400">
+<P>There are many distinctive geographical features in Batangas, including a peak that resembles the gently rolling hills of Batanes. Mount Batulao in Nasugbu, Batangas is 693 meters high and is renowned for its breathtaking vistas of rocks and rocky grasslands.
+In addition to the scenery, the mountain features slopes suitable for beginners. The Old Trail and the New Trail both lead up the mountain. It is recommended that you start with the Old Trail, which has a more difficult route and requires rappelling on some of the paths, rather than the New Trail, which has easier terrain.</P>
+<hr><BR>
+
+<h2><FONT COLOR=“#000080”>4. Mount Makiling, Batangas and Laguna</FONT></h2>
+<IMG SRC="mountain4.jpg" width="700"height="400">
+<p>Mount Makiling, which rises to a height of 1,090 meters, keeps watch over the Laguna and Sto. Batangas' Tomas. If you're planning an overnight stay in Laguna before ascending this peak, there are many nearby hot spring resorts you can relax in. The mountain is noted for its geothermal features, such as mud and hot springs.<br>
+Because of the numerous species that call its forest home, including 62 that are indigenous to the Philippines, including the Philippine eagle owl, Philippine pygmy fruit bat, and the Philippine monkey, it has been designated as an ASEAN Heritage Park. Additionally, the mountain is thought to be the sanctuary of Lady Maria Makiling, whose reclined position is said to resemble the shape of the mountain, according to Filipino mythology.
+</p>
+<hr><br>
+
+<h2><FONT COLOR=“#000080”>5. Mount Hibok-Hibok, Camiguin</FONT></h2>
+<IMG SRC="mountain5.jpg" width="700"height="400">
+<p>Mount Hibok-Hibok, which rises to a height of 1,332 meters, watches over Camiguin Island. Every mountain's summit provides breathtaking views, but Mount Hibok-summit Hibok's is where you may see the magnificent White Island, a white sandbar that stretches across Camiguin Island.<br>
+The woods of Mount Timpoong and Hibok-Hibok make up the Mt. Timpoong-Hibok-Hibok Natural Monument, which is also one of the Philippines' ASEAN Heritage Parks. The Camiguin Hawk Owl, Camiguin Narrow-Mouthed Frog, and Kalingag Tree are just a few of the rare species that make this area special and worthy of preservation as a heritage park.<br>
+There are many hot springs close by, including the popular starting point for mountain climbing, the man-made Ardent Hot Springs.</p>
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+

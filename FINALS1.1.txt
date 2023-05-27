@@ -1,0 +1,80 @@
+<html>
+<head>
+<style>
+Body
+{background-image: url('p1.jpeg');
+background-repeat: no repeat:
+background-attachment: fixed;
+background-size: 100% 100%;}
+</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Finals</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body */
+body {
+  font-family: Courier;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 1px;
+  background: #01579B;
+  color: white;
+  font-size: 20px;
+}
+
+
+/* Page Content */
+.content {padding:20px;
+font-size: 40px;
+color: white;
+font-family: Arial;
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="header">
+<h1>Tourist Spots Ph</h1>
+</div>
+<div class="content">
+<center>
+  <h1>Best Travel Ideas in the Philippines</h1>
+
+<head>
+<style>
+.button {
+  background-color: #4DB6AC; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+border-radius: 8px;
+font-family: Arial;
+}
+
+</style>
+</head>
+
+<body>
+    <a href="FINALSCONTENT1.html" class="button">Mountain Views</a>
+<a href="FINALSCONTENT2.html" class="button">Beaches</a>
+
+<a href="FINALSCONTENT3.html" class="button">Historical Places</a>
+<a href="FINALSCONTENT4.html" class="button">Theme Parks</a>
+  </body>
+
+
+
+</html>

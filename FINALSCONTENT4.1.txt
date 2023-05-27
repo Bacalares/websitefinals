@@ -1,0 +1,127 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Finals</title>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+
+
+
+/* Style the body */
+body {
+  font-family: Courier;
+  margin: 0;
+}
+/* Header/Logo Title */
+.header {
+  padding: 1px;
+  background: #01579B;
+  color: white;
+  font-size: 20px;
+}
+
+/* Page Content */
+.content {padding:20px;
+font-size: 20px;
+padding-left: 300px;
+padding-right: 300px;
+
+font-family: Arial;
+}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Tourist Spots Ph</h1>
+</div>
+
+
+</head>
+
+<head>
+<style>
+.button {
+top: 100%;
+left: 100%;
+  background-color: #4DB6AC; /* Green */
+  border: none;
+  color: white;
+  padding: 25px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1px -4px;
+  cursor: pointer;
+border-radius: 0px;
+font-family: Arial;
+font-size: 25px;
+width: 255px;
+
+}
+
+</style>
+</head>
+<body>
+
+    <a href="FINALS1.html" class="button">Home</a>
+
+<a href="FINALSCONTENT1.html" class="button">Mountain Views</a>
+
+<a href="FINALSCONTENT2.html" class="button">Beaches</a>
+
+<a href="FINALSCONTENT3.html" class="button">Historical Places</a>
+
+
+</body>
+
+
+<div class="content">
+<head>
+<style>
+h1{
+font-size: 40px;
+}
+</style>
+</head>
+<body>
+  <h1>Theme Parks in the Philippines</h1>
+<br>
+<hr>
+
+
+
+
+
+<h2><FONT COLOR=“#21618C”>1. Sky Ranch</FONT></h2>
+<IMG SRC="park1.jpg" width="700"height="400">
+<p>Want to see the biggest Ferris wheel in the nation? Tagaytay's Sky Ranch is the solution. Sky Ranch Tagaytay, a major theme park, is well-known for its enormous Ferris wheel, Sky Eye. Visitors can take in the view of the lake and Taal Volcano by being lifted up to 63 meters (206 feet) in the air at this location. If this doesn't pique your interest, the Sky Cruiser excursion will bring you considerably closer to the volcano and the lake. Additionally, the zipline experience will give you an entirely new perspective.</p><hr><br>
+
+
+<h2><FONT COLOR=“#000080”>2. Enchanted Kingdom</FONT></h2>
+<IMG SRC="park2.jpg" width="700"height="400">
+<p>Enchanted Kingdom, which is situated in Santa Rosa, Laguna, is exactly as magical as it sounds. It ought to be in your travel itinerary for sure. The amusement park, which has a total area of 25 hectares (61 acres), offers guests from all over the world the chance to explore a magical, imaginative, and creative environment. Space Shuttle and Anchors Away are a couple of them. In addition to these, the kids can have a blast at Discovery Theater and Seventh Portal while learning about fascinating topics. Visitors can also take pleasure in witnessing a wide range of performances and events, including dancing, music, fireworks, and more.
+</p><hr><br>
+
+<h2><FONT COLOR=“#000080”>3.Manila Ocean Park</FONT></h2>
+<IMG SRC="park3.jpg" width="700"height="400">
+<p>Manila Ocean Park, the only ocean-themed amusement park in the Philippines, is renowned for giving guests the ability to learn while having fun. The Mermaid Swim Experience, one of the best educational activities available here, allows participants to swim in enormous tanks while decked out as real-life mermaids. Be sure to check our Symphony Fountain Show, which is a different audience favorite.
+</p><hr><br>
+
+<h2><FONT COLOR=“#000080”>4. Zoobic Safari</FONT></h2>
+<IMG SRC="park4.jpg" width="700"height="400">
+<p>The only tiger safari in the Philippines is called oobic Safari, and it is situated in the Subic Bay Freeport Zone's dense forest.
+
+<br><br>Visitors are treated to an exhilarating adventure at this 25 hectare forest adventure park. Far from the typical zoo/theme park, Zoobic offers you the chance to get up close and personal with these amazing animals, to raise awareness and concern for their species through education and information provided by our knowledgeable Tour Guides, to find a special way to connect with nature, and most importantly, to embark on an adventure unlike any other in the nation: a close encounter with the largest cats.</p><hr><br>
+
+<h2><FONT COLOR=“#000080”>5. Star City, Manila </FONT></h2>
+<IMG SRC="park5.jpg" width="700"height="400">
+<p>One of the largest, most well-liked, and climate-controlled amusement parks in the entire Philippines, Star City is situated in the city of Pasay in Metro Manila. Covering an enormous 380,000 sq. ft., the park receives 1.5 million visitors each year thanks to its magnificent theme décor and more than 30 exhilarating rides and attractions. The park, which opened in 1991, offers a variety of energizing indoor and outdoor games and activities for people of all ages. There are other coin-operated video games like Snow Land, Lazer Blaster, and Walk on Water, among others. Both tourists and residents use the park because it offers a pleasant diversion from the mundane routine of daily life.</p>
+
+</body>
+
+</html>
